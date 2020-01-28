@@ -37,6 +37,8 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
+ * 读取配置：
+ *  通过这个类本地加载file.conf的配置参数
  * The type FileConfiguration.
  *
  * @author slievrly

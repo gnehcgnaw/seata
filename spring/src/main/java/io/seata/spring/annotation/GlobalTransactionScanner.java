@@ -95,6 +95,7 @@ public class GlobalTransactionScanner extends AbstractAutoProxyCreator
     private ApplicationContext applicationContext;
 
     /**
+     * 实例化新的全局事务扫描器。
      * Instantiates a new Global transaction scanner.
      *
      * @param txServiceGroup the tx service group
